@@ -36,6 +36,7 @@ Technologies I've worked with :
     ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 - APIs : <br />
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+    ![LeafLet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)
     
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siva010928)<br/>
 
