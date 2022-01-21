@@ -1,9 +1,11 @@
 ### Hi I'm Siva Prakash 👋
 I’ve been pursuing my dream course B.Tech Computer
 Science and Engineering in Kumaraguru College of Technology
-- 🔭 I’m currently working on [Job portal management](https://github.com/siva010928/Job-Portal) management system using Java and MySQL follows object oriented programming principles
+- 🔭 I’m currently working on [![Job portal](https://img.shields.io/badge/-Job%20Portal-9cf)](https://github.com/siva010928/Job-Portal) management system using Java and MySQL follows object oriented programming principles
 - 🌱 I’m currently learning for my placement
-- 📫 How to reach me: [Mail](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCCSfthjkkjfWCNFDRchtmSmkxWMbprzDSttPbZXrLLlGGBNQNNqGjRsnrLkZknLFjQmzL),  [LinkedIn](https://www.linkedin.com/in/sivakpraksash/)
+- 📫 How to reach me: <br />
+     [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCCSfthjkkjfWCNFDRchtmSmkxWMbprzDSttPbZXrLLlGGBNQNNqGjRsnrLkZknLFjQmzL)
+     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivakpraksash/)
 
 Technologies I've worked with :
 
@@ -12,6 +14,10 @@ Technologies I've worked with :
     ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- Competitive Programming : <br/>
+    [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/siva010928/)
+    [![HackerRank](	https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/siva010928)
+    [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/siva010928)
 - Frontend : <br />
     ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -30,4 +36,6 @@ Technologies I've worked with :
     ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 - APIs : <br />
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+    
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=siva010928)<br/>
 
