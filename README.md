@@ -7,7 +7,7 @@ Science and Engineering in Kumaraguru College of Technology
      [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCCSfthjkkjfWCNFDRchtmSmkxWMbprzDSttPbZXrLLlGGBNQNNqGjRsnrLkZknLFjQmzL)
      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivakpraksash/)
 
-Technologies I've worked with :
+<!-- Technologies I've worked with :
 
 - Programming languages : <br />
     ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -36,7 +36,7 @@ Technologies I've worked with :
     ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 - APIs : <br />
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-    ![LeafLet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)
+    ![LeafLet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white) -->
     
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siva010928)<br/>
 
