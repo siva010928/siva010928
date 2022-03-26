@@ -4,8 +4,9 @@ Science and Engineering in Kumaraguru College of Technology
 - 🔭 I’m currently working on [![Job portal](https://img.shields.io/badge/-Job%20Portal-9cf)](https://github.com/siva010928/Job-Portal) management system using Java and MySQL follows object oriented programming principles
 - 🌱 I’m currently learning for my placement
 - 📫 How to reach me: <br />
-     [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCCSfthjkkjfWCNFDRchtmSmkxWMbprzDSttPbZXrLLlGGBNQNNqGjRsnrLkZknLFjQmzL)
-     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivakpraksash/)
+     [![Website](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://siva010928.github.io/portifolio-personal/index.html) &nbsp;&nbsp;&nbsp;
+     [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCCSfthjkkjfWCNFDRchtmSmkxWMbprzDSttPbZXrLLlGGBNQNNqGjRsnrLkZknLFjQmzL)&nbsp;&nbsp;&nbsp;
+     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivakpraksash/)&nbsp;&nbsp;&nbsp;
 
 <!-- Technologies I've worked with :
 
